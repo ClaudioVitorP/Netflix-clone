@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+<h1 align="center">:file_cabinet: Fullflix-React.js</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :memo: Descrição
+Desafio da Fullture School: Desenvolver um site de filmes em React, inspirado na página inicial da Netflix, com integração da API do TMDB.
 
-## Available Scripts
+Neste projeto, utilizei JavaScript juntamente com a biblioteca React para criar uma experiência similar à plataforma da Netflix. Através da integração com a API do TMDB, obtive acesso a uma vasta quantidade de informações sobre filmes, como títulos, sinopses, imagens e classificações.
 
-In the project directory, you can run:
+Para estruturar o projeto de forma organizada e reutilizável, apliquei a técnica de componentização, dividindo a interface em componentes individuais responsáveis por diferentes partes da página, como cabeçalho, carrosséis de filmes e seções de categorias.
 
-### `npm start`
+Além disso, utilizei styled components para estilizar os elementos, o que proporcionou uma maior flexibilidade e facilidade na personalização dos estilos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Durante o desenvolvimento, apliquei metodologias de desenvolvimento modernas, como a utilização de boas práticas de programação, separação de preocupações e aproveitamento de recursos disponíveis na biblioteca React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O resultado final foi um site dinâmico e responsivo, que permite a navegação entre diferentes seções de filmes, exibindo detalhes relevantes de cada um e proporcionando uma experiência de usuário envolvente e similar à Netflix. 
 
-### `npm test`
+## :wrench: Tecnologias utilizadas
+* React.js;
+* JavaScript;
+* Styled components;
+* ReactDOM;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## :rocket: Rodando o projeto
+Para rodar o repositório é recomendado acessar:
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ClaudioVitorP">
+        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <sub>
+          <b>Cláudio Vítor</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :dart: Status do projeto
+Finalizado
