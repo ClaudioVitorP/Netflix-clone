@@ -1,6 +1,7 @@
 {
   "name": "clone-netflix",
   "version": "0.1.0",
+  "homepage": "cole-netflix/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
